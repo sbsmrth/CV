@@ -253,7 +253,6 @@ footer .footer-info p, a {
 .main-nav__content {
   list-style: none;
   display: flex;
-  margin-top: 10px;
 }
 
 .main-nav__content li a {
@@ -294,13 +293,13 @@ footer .footer-info p, a {
 @media (max-width: 992px) { 
   .main-nav {
     background: rgb(4, 4, 4);
+    height: 10vh;
   }
 
   .main-nav__content {
     position: fixed;
     width: 100vw;
     padding-bottom: 15px;
-    height: calc(100%-12vh);
     background: rgb(4, 4, 4);
     top: -100vh;
     text-align: center;
