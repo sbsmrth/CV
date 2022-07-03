@@ -429,11 +429,7 @@ footer .footer-info p, a {
 .project-container__content a {
   color: #121314;
   font-weight: bold;
-  margin-left: 5px;
-}
-
-.project-container__link {
-  margin-top: 6px;
+  margin-left: 10px;
 }
 
 .technologies-container {
